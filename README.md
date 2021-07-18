@@ -1,4 +1,5 @@
 # Home-Automation-System
+Using the web application which we have created we can operate the electrical appliances present at our home.
 
 
 
